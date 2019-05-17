@@ -1,3 +1,7 @@
+# Utilities
+*.csv
+*lock.*
+
 # Logs
 logs
 *.log

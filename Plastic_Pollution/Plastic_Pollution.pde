@@ -53,8 +53,9 @@ void getData() {
   
   //debug
   //printArray("LATITUDE: " + latitudeValues + " LONGITUDE: " + longitudeValues);
-  //printArray(latitudeValues);
-  printArray(longitudeValues);
+  //printArray(longitudeValues);
+  //printArray(latitudeValues[0]);
+  //println(marine.getRow(10).getColumnTitle(10));
   
   
 }
